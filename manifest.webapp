@@ -8,13 +8,16 @@
 
   "subtitle":"Watch Online Videos",
 
+  "start_url": "https://www.gstatic.com",
+
   "theme":"#cc181e",
 
-  "launch_path": "https://www.gstatic.com/gtaf/yt_jio_index.html",
+  "launch_path": "/gtaf/yt_jio_index.html",
 
   "icons": {
+
     "56": "https://dominickuo.github.io/YouTube/128.png",
-    "128": "https://dominickuo.github.io/YouTube/128.png"
+    "84": "https://dominickuo.github.io/YouTube/128.png"
   },
 
   "fullscreen": false,
