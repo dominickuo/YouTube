@@ -10,7 +10,7 @@
 
   "theme":"#cc181e",
 
-  "launch_path": "https://www.gstatic.com/gtaf/yt_jio_index.html",
+  "start_url": "https://www.gstatic.com/gtaf/yt_jio_index.html",
 
   "icons": {
     "56": "https://dominickuo.github.io/YouTube/128.png",
