@@ -1,0 +1,57 @@
+{
+
+  "name": "YouTube",
+
+  "description": "See what the world is watching -- from the hottest music videos to whatâ€™s trending in gaming, entertainment, news, and more. Subscribe to channels you love, share with friends, and watch from anywhere.",
+
+  "display":"YouTube",
+
+  "subtitle":"Watch Online Videos",
+
+  "theme":"#cc181e",
+
+  "launch_path": "/gtaf/yt_jio_index.html",
+
+  "icons": {
+
+    "56": "https://www.gstatic.com/gtaf/YTIconRound56x56.png",
+    "84": "https://www.gstatic.com/gtaf/YTIconRound84x84.png"
+  },
+
+  "fullscreen": false,
+
+  "version":"1.0.0",
+
+  "origin": "app://jio.youtube.com",
+
+  "type": "web",
+
+  "cursor": true,
+
+  "ime_default_softkey_bar": true,
+
+  "developer": {
+
+    "name": "Google Inc",
+
+    "url": "https://www.google.com"
+
+  },
+
+  "default_locale": "en-US",
+
+   "locales": {
+
+    "en-US": {
+
+      "name": "YouTube",
+
+                  "description": "See what the world is watching -- from the hottest music videos to whatâ€™s trending in gaming, entertainment, news, and more. Subscribe to channels you love, share with friends, and watch from anywhere.",
+
+                  "subtitle": "Enjoy your favorite videos and channels"
+
+    }
+   }
+
+}
+
